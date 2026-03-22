@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+mlflow
+urllib3<2
+pandas
+scikit-learn
+dvc
+pydantic
