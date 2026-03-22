@@ -6,3 +6,5 @@ pandas
 scikit-learn
 dvc
 pydantic
+sqlalchemy
+pymysql
